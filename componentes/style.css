@@ -1,0 +1,31 @@
+body{
+  background-color: rgba(66, 104, 105, 0.814);
+}
+
+
+.textarea{
+  width: 18.75rem;
+  height: 6.25rem;
+  border-style:solid #000;
+  text-align: center;
+  font-size: 1.875rem;
+  display: block;
+  align-items: center;
+  background-color: rgba(250, 242, 242, 0.704);
+  padding-top: 3.75rem;
+  justify-items: center;
+  border-radius: 0.9375rem;
+  border-color: #000;
+  margin-top: 150px;
+}
+  
+  .button{
+    display: inline;
+    background-color:rgba(250, 242, 242, 0.704);
+    color: #000;
+  }
+
+  .text{
+    font-size: 2.5rem;
+    max-width: 300px;
+  }
